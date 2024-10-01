@@ -3,6 +3,7 @@
     "versione": "0.0.1",
     "author": "daniel magic pm",
     "license": "MIT",
+    "main": "index.js",
     "scripts": {
         "compile": "rm -rf dist/lib && tsc && tsc --build tsc tsconfig.es5.json"
     },
